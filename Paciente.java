@@ -15,7 +15,6 @@ public class Paciente {
     public void mostrarAtura() {
 
         System.out.println("Mi altura es:"+this.altura);
-
     
 }
 }

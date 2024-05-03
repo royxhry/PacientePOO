@@ -19,9 +19,8 @@ public class MainPaciente {
         p2.mostrarNombreA();
         p2.mostrarEdad();
         p2.mostrarAtura();
+        p1.close();
         
-
-
     }
 }
 
